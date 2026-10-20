@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+<title id="title">Anwesh Pandey — Computational Biophysics and AI/ML</title>
+<desc id="desc">A dark scientific banner with molecular network motifs and a title about computational biophysics, machine learning, and drug discovery.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.55" stop-color="#10263a"/><stop offset="1" stop-color="#15113a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1400" height="360" rx="26" fill="url(#bg)"/>
+<circle cx="1180" cy="105" r="270" fill="url(#glow)"/>
+<g stroke="#67e8f9" stroke-opacity=".45" stroke-width="2" fill="none">
+ <path d="M1000 68 L1080 112 L1170 62 L1260 115 L1330 66 M1080 112 L1060 205 L1150 255 L1260 215 L1260 115 M1170 62 L1200 160 L1330 190 M1060 205 L985 260 M1150 255 L1200 315"/>
+</g>
+<g fill="#22d3ee">
+ <circle cx="1000" cy="68" r="7"/><circle cx="1080" cy="112" r="9"/><circle cx="1170" cy="62" r="6"/><circle cx="1260" cy="115" r="8"/><circle cx="1330" cy="66" r="6"/>
+ <circle cx="1060" cy="205" r="7"/><circle cx="1150" cy="255" r="9"/><circle cx="1260" cy="215" r="6"/><circle cx="1200" cy="160" r="6"/><circle cx="1330" cy="190" r="7"/><circle cx="985" cy="260" r="5"/><circle cx="1200" cy="315" r="6"/>
+</g>
+<g fill="#a78bfa" opacity=".9"><circle cx="1080" cy="112" r="3"/><circle cx="1260" cy="115" r="3"/><circle cx="1150" cy="255" r="3"/></g>
+<text x="76" y="125" fill="#e2e8f0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" letter-spacing="5">COMPUTATIONAL BIOPHYSICS  ·  AI/ML</text>
+<text x="72" y="205" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="64">Anwesh Pandey, Ph.D.</text>
+<rect x="76" y="232" width="520" height="4" rx="2" fill="url(#accent)"/>
+<text x="76" y="278" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Molecular Modelling  |  Drug Discovery  |  Machine Learning</text>
+<text x="76" y="318" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2">PHYSICS × CHEMISTRY × BIOLOGY × DATA</text>
+</svg>
